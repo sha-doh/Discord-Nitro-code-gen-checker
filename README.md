@@ -3,7 +3,7 @@ Requires latest vesion of Node.js get it here: https://nodejs.org/en/download/
 
 Requires Proxies get them here: http://free-proxy.cz/en/
 
-Open CMD and use the cd command get the folder open ![CMD](pictures/CMDtut1(2)
+Open CMD and use the cd command get the folder open ![CMD](Pictures/cmdtut1(2)
 
 then run node start
 
