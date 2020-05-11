@@ -9,7 +9,7 @@ and you're done have fun
 
 if you want to Check specific codes add a "codes.txt" file and it will check those
 
-to use proxies just add a "proxies.txt" file with your proxies and it should work, if you get errors dont just delete proxies file, make sure they are all valid http
+to use proxies just add a "proxies.txt" file with your proxies and it should work, if you get errors dont just delete proxies file, make sure they are all valid http, OR just leave the proxies file blank because it needs to be there for the code to run
 
 
 
