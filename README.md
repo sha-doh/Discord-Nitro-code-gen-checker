@@ -1,5 +1,6 @@
 # Discord-Nitro-code-checker-and-generator
-Requires latest vesion of Node.js get it here https://nodejs.org/en/download/
+Requires latest vesion of Node.js get it here: https://nodejs.org/en/download/
+Requires Proxies get them here: http://free-proxy.cz/en/
 
 Open CMD and use the cd command get the folder open
 
