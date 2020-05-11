@@ -1,5 +1,6 @@
 # Discord-Nitro-code-checker-and-generator
-_**currently woking on a bug fix (Random Crashes)
+_**currently woking on a bug fix (Random Crashes)**_
+
 **Requires latest vesion of Node.js get it here: https://nodejs.org/en/download/**
 
 **Requires Proxies get them here: http://free-proxy.cz/en/**
