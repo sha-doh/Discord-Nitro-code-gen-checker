@@ -45,7 +45,7 @@ if (autograbproxy) {
 });
 }
 
-console.log(colors.white(`\n-------------------------------------\n[CHECKER] Discord Nitro Code Checker\n[CHECKER] Author: loading8009#0827 (spicyness\'s alt)\n-------------------------------------\nSettings\n-------------------------------------\n[CHECKER] Debug Mode: ${debug}\n[CHECKER] Using Socks5 Proxies: ${socks5}\n[CHECKER] Auto-Gen: ${autogen}\n[CHECKER] No Error Messages: ${noerrormessages}\n[CHECKER] Auto Grab Proxies: ${autograbproxy}\n-------------------------------------\n`))
+console.log(colors.white(`\n-------------------------------------\n[CHECKER] Discord Nitro Code Checker and gen\n[CHECKER] Author: Noah Serapilio)\n-------------------------------------\nSettings\n-------------------------------------\n[CHECKER] Debug Mode: ${debug}\n[CHECKER] Using Socks5 Proxies: ${socks5}\n[CHECKER] Auto-Gen: ${autogen}\n[CHECKER] No Error Messages: ${noerrormessages}\n[CHECKER] Auto Grab Proxies: ${autograbproxy}\n-------------------------------------\n`))
 
 getGiftCode = function () {
     let code = '';
