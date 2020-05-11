@@ -1,6 +1,8 @@
 # Discord-Nitro-code-checker-and-generator
 _**THINGS YOU SHOULD KNOW**_
 
+_**USE CTRL+C TO CANCEL AND VIEW INFO ABOUT CHECK
+
 _**WHITE TEXT STRINGS BETWEEN INVALID CODES ARE OK AND EXPEXTED, ITS JUST SWITCHING PROXIES**_
 
 **Requires latest vesion of Node.js get it here: https://nodejs.org/en/download/**
