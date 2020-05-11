@@ -1,4 +1,8 @@
 # Discord-Nitro-code-checker-and-generator
+_**THINGS YOU SHOULD KNOW**_
+
+_**WHITE TEXT STRINGS BETWEEN INVALID CODES ARE OK AND EXPEXTED, ITS JUST SWITCHING PROXIES**_
+
 _**currently woking on a bug fix (Random Crashes)**_
 
 **Requires latest vesion of Node.js get it here: https://nodejs.org/en/download/**
