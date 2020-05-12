@@ -11,9 +11,13 @@ _**WHITE TEXT STRINGS BETWEEN INVALID CODES ARE NOT A PROBLEM, IF IT CRASHES AFT
 
 **Proxies recommended, get them here: http://free-proxy.cz/en/**
 
-Open CMD and use the cd command get the folder open
+Click WindowsKey + R and type "cmd" it will open command prompt
 
-then run node start
+In CMD and use the "cd\Users\Username\location\Discord-Nitro-code-gen-checker-master\Discord-Nitro-code-gen-checker-master" command get the folder open,
+
+Run "npm install"
+
+then run "node start"
 
 and you're done have fun
 
