@@ -13,7 +13,7 @@ _**WHITE TEXT STRINGS BETWEEN INVALID CODES ARE NOT A PROBLEM, IF IT CRASHES AFT
 
 Click WindowsKey + R and type "cmd" it will open command prompt
 
-In CMD and use the "cd\Users\Username\location\Discord-Nitro-code-gen-checker-master\Discord-Nitro-code-gen-checker-master" command get the folder open,
+In CMD and use the "cd\Users\Username\location\Discord-Nitro-code-gen-checker-master\Discord-Nitro-code-gen-checker-master" command get the folder open, (this location may vary based on your computer)
 
 Run "npm install"
 
