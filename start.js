@@ -4,12 +4,12 @@ if (process.platform === "win32") {
     output: process.stdout
   });
 
-  rl.on("SIGINT", function () {
+  rl.once("SIGINT", function () {
     process.emit("SIGINT");
   });
 }
 
-process.on("SIGINT", function () {
+process.once("SIGINT", function () {
   console.log('\nChecked ' +i+' codes!\nFound '+a+' working codes!')
   process.exit();
 });
@@ -27,6 +27,7 @@ let socks5 = false //Using Socks5 Proxies (force turned off if autograbproxy is 
 const autogen = true //Generates codes and checks them: Set to true or false
 const noerrormessages = true //Doesn't show error messages: Set to true or false
 const autograbproxy = true //Automatically grab proxies: Set to true or false
+require('events').EventEmitter.prototype._maxListeners = 200;
 
 let i = 0 //DO NOT CHANGE THIS!
 let a = 0 //THIS TOO!
