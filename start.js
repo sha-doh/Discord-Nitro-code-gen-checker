@@ -27,6 +27,7 @@ let socks5 = false //Using Socks5 Proxies (force turned off if autograbproxy is 
 const autogen = true //Generates codes and checks them: Set to true or false
 const noerrormessages = true //Doesn't show error messages: Set to true or false
 const autograbproxy = true //Automatically grab proxies: Set to true or false
+require('events').EventEmitter.prototype._maxListeners = 200;
 
 let i = 0 //DO NOT CHANGE THIS!
 let a = 0 //THIS TOO!
